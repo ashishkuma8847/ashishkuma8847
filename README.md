@@ -1,8 +1,8 @@
 # 💫 Hi 👋, I'm Ashish Taak
 **A passionate Web Developer from India**
 
-Email Me 👉 ✉️ **ashishkuma8847@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-My portfolio 👉  **https://portfolio-teal-nu-25.vercel.app/**
+- Email Me 👉 ✉️ **ashishkuma8847@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+- My portfolio 👉  **https://portfolio-teal-nu-25.vercel.app/**
 
 - 🔭 **I’m currently working on:** Building creative, modern, and animated React components with cinematic effects, and developing scalable backend APIs.
 - 🌱 **I’m currently learning:**Advanced React patterns, CSS animations, Node.js, Express.js, and database optimization with MySQL.
